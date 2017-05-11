@@ -1,4 +1,5 @@
-# Bamboo.PostageAppAdapter [![Build Status](https://travis-ci.org/GBH/bamboo_postageapp.svg?branch=master)](https://travis-ci.org/GBH/bamboo_postageapp)
+# Bamboo.PostageAppAdapter [![Hex.pm](https://img.shields.io/hexpm/v/plug.svg?style=flat)](https://hex.pm/packages/bamboo_postageapp) [![Build Status](https://travis-ci.org/GBH/bamboo_postageapp.svg?style=flat&branch=master)](https://travis-ci.org/GBH/bamboo_postageapp)
+
 
 A [PostageApp](https://postageapp.com/) Adapter for the [Bamboo](https://github.com/thoughtbot/bamboo) email library.
 
