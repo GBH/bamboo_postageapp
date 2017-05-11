@@ -1,8 +1,6 @@
 # Bamboo.PostageAppAdapter [![Hex.pm](https://img.shields.io/hexpm/v/bamboo_postageapp.svg?style=flat)](https://hex.pm/packages/bamboo_postageapp) [![Build Status](https://travis-ci.org/GBH/bamboo_postageapp.svg?style=flat&branch=master)](https://travis-ci.org/GBH/bamboo_postageapp)
 
-
 A [PostageApp](https://postageapp.com/) Adapter for the [Bamboo](https://github.com/thoughtbot/bamboo) email library.
-
 
 ### [API Documentation](http://help.postageapp.com/kb/api/api-overview) &bull; [Knowledge Base](http://help.postageapp.com/kb) &bull; [Help Portal](http://help.postageapp.com/)
 
@@ -49,6 +47,6 @@ defmodule MyApp.Mail do
 end
 ```
 
-# Copyright
+### Copyright
 
 (C) 2017 Oleg Khabarov
