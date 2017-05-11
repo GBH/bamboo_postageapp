@@ -1,4 +1,4 @@
-# Bamboo.PostageAppAdapter
+# Bamboo.PostageAppAdapter [![Build Status](https://travis-ci.org/GBH/bamboo_postageapp.svg?branch=master)](https://travis-ci.org/GBH/bamboo_postageapp)
 
 A [PostageApp](https://postageapp.com/) Adapter for the [Bamboo](https://github.com/thoughtbot/bamboo) email library.
 
@@ -15,7 +15,7 @@ def deps do
 end
 ```
 
-Add PostageApp your config:
+Add PostageApp to your config:
 
 ```elixir
 # In your configuration file:
@@ -46,7 +46,7 @@ defmodule MyApp.Mail do
     |> postageapp_variables(%{foo: "123", bar: "abc"})
   end
 end
-
+```
 
 # Copyright
 
